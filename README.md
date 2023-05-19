@@ -9,7 +9,7 @@ To get started with this project, you will need to have Flutter installed on you
 Once you have Flutter installed, you can clone this repository to your local machine:
 
 ```
-git clone [https://github.com/HERO-EYE/Energy-Box.git](https://github.com/HERO-EYE/Energy-Box)
+git clone https://github.com/HERO-EYE/Energy-Box.git
 ```
 
 Then, navigate to the project directory and run the following command to install the dependencies:
